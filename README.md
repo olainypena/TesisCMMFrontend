@@ -26,6 +26,7 @@ El sistema está orientado a la gestión clínica, permitiendo la administració
 - 🟢 **Node.js**
 - 📦 **npm**
 - 🔧 **Git & GitHub**
+- 🔧 **EmailJs**
 
 ---
 
